@@ -8,7 +8,7 @@ weight: 3
 # **About Me**
 
 Hi I am **{{ site.author.name }}** :wave:,<br>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+As a graduate of Bachelor of Science in Mathematics, I have a fondness for machine learning and AI, I have been working in image classification and image segmentation as a key point in my thesis. Aside from that I also have learned skills in other data science-related fields such as data wrangling, EDA, and data analysis. Aside from that I also work as Lab assistant Volunteer in a small village and co-founded a small university startup company.
 
 <div class="row">
 {% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
