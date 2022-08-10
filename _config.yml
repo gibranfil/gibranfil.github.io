@@ -1,9 +1,9 @@
 ### Site Settings ###
 title               : Muhammad Gibran Al-Filambany
 description         : >-
-                      I turn coffee :coffee: into code,
-                      use tabs over spaces
-                      and never broke production.
+                      Fresh Graduate
+                      Love data science and machine learning :bar_chart:.
+                      
 baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : gibranfil/gibranfil.github.io   # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : YoussefRaafatNasry/portfolYOU
@@ -26,7 +26,7 @@ nav_exclude:                                            # The following paths ar
 ### Author Info ###
 author:
   name              : Muhammad Gibran Al-Filambany
-  image             : https://i.imgur.com/3ykWZGU.jpg
+  image             : https://i.imgur.com/z4oWhjh.jpg
 #  behance           : your_username
 # dribbble          : your_username
   email             : gibran098@gmail.com
