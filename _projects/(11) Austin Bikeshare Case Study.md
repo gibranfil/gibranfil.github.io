@@ -1,5 +1,5 @@
 ---
-name: Coursera Recommendation System
+name: Bikeshare Case Study
 tools: [SQL, BigQuery, Looker]
 image: https://i.imgur.com/DMsMJbt.jpeg
 description: A case study of Bikeshare in Austin City.
