@@ -1,12 +1,12 @@
 ---
 name: Airbnb Dashboard using Tableau and Looker
 tools: [Tableau, Looker, Python]
-image: https://cdn.usbrandcolors.com/images/logos/airbnb-logo.svg
+image: https://i.imgur.com/n7v4yAK.jpeg
 description: Project i worked from Revou Course about Airbnb Analysis using Tableau and Looker visualization.
 ---
 
 # Singapore Airbnb Dashboard
-![preview](https://cdn.usbrandcolors.com/images/logos/airbnb-logo.svg)
+![preview](https://i.imgur.com/n7v4yAK.jpeg)
 
 This project create dashboard for **Airbnb** review and their pricing based on each region, room type, etc. I cleaned the data using **Python** by fixing the column name and checking for null value, then i made the dashboard using **Tableau** and **Looker**.
 
