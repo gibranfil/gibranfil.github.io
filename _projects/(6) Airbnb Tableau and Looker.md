@@ -1,5 +1,5 @@
 ---
-name: The Movies Project
+name: Airbnb Analysis using Tableau and Looker
 tools: [Tableau, Looker, Python]
 image: https://www.sketchappsources.com/resources/source-image/movie-badges-jurajjurik.png
 description: Project i worked from Revou Course about Airbnb Analysis using Tableau and Looker visualization.
