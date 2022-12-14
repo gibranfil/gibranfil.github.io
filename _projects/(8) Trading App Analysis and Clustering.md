@@ -2,10 +2,11 @@
 name: Trading App Analysis and Clustering
 tools: [Analysis, Python, Clustering]
 image: https://i.imgur.com/Fg0EMPr.jpeg
-description: Recommendation System for Coursera courses.
+description: Cleaning, Analysis, and Clustering of Trading app data.
 ---
 
 # Trading App Analysis and Clustering
+The data are provided by Revou courses.
 This project will try to answer these question. 
 - What are the user trends of our investment app? checking the trend of our apps will help check the growth.
 - How much money is moving in each type of investment and how often? this make sure to apply feature in a right way.
@@ -30,8 +31,7 @@ Here are some the graph i produced.
 ![alt text](https://i.imgur.com/hFycNJk.png "Graph")
 ![alt text](https://i.imgur.com/mTPaf0G.png "Graph")
 
-For the Clustering.
-## Tableau
+## Clustering
 {% include elements/figure.html image="https://i.imgur.com/Fg0EMPr.jpeg" caption="The 3 Cluster" %}
 
 - Cluster 0 are filled with youngster and someone with less than 10 m mincome, the majority are student. most of income from non work related (undian, orangtua, tabungan etc)
