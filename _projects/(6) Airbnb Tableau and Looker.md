@@ -1,19 +1,27 @@
 ---
-name: Airbnb Analysis using Tableau and Looker
+name: Airbnb Dashboard using Tableau and Looker
 tools: [Tableau, Looker, Python]
-image: https://www.sketchappsources.com/resources/source-image/movie-badges-jurajjurik.png
+image: https://cdn.usbrandcolors.com/images/logos/airbnb-logo.svg
 description: Project i worked from Revou Course about Airbnb Analysis using Tableau and Looker visualization.
 ---
 
-# Singapore Airbnb Analysis
+# Singapore Airbnb Dashboard
+![preview](https://cdn.usbrandcolors.com/images/logos/airbnb-logo.svg)
 
-This project analyse **Airbnb** daily review and their pricing based on each region, room type, etc. I cleaned the data using **Python** by fixing the column name and checking for null value, then i analyse it using **Tableau** and **Looker
-![preview](https://www.sketchappsources.com/resources/source-image/we-were-soldiers-landing-page-dbruggisser.jpg)
+This project create dashboard for **Airbnb** review and their pricing based on each region, room type, etc. I cleaned the data using **Python** by fixing the column name and checking for null value, then i made the dashboard using **Tableau** and **Looker**.
 
-## Search Movies
-
-![search](https://www.sketchappsources.com/resources/source-image/microsoft-windows-10-virtual-keyboard-diogo-sousa.png)
+## Looker
+{% include elements/figure.html image="https://i.imgur.com/IzynfFF.jpeg" caption="Looker Dashboard" %}
 
 <p class="text-center">
-{% include elements/button.html link="https://github.com/YoussefRaafatNasry/portfolYOU" text="Learn More" %}
+{% include elements/button.html link="https://datastudio.google.com/u/0/reporting/aa246cd4-61ed-4959-b267-36aaab8cbde6/page/su97C" text="Dashboard Link" %}
 </p>
+
+## Tableau
+{% include elements/figure.html image="https://i.imgur.com/PUAG4tG.jpeg" caption="Tableau Dashboard" %}
+
+<p class="text-center">
+{% include elements/button.html link="https://public.tableau.com/app/profile/gibran2356/viz/W10W11_AUG22_MuhammadGibranAl-Filambany/Dashboard1?publish=yes" text="Dashboard Link" %}
+</p>
+
+
