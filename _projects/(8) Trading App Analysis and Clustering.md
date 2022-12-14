@@ -1,9 +1,8 @@
 ---
 name: Trading App Analysis and Clustering
 tools: [Analysis, Python, Clustering]
-image: https://i.imgur.com/idGwBRx.png
+image: https://i.imgur.com/Fg0EMPr.jpeg
 description: Recommendation System for Coursera courses.
-external_url: https://gibranfil-recommender-streamlit-demo-app-jwpbs9.streamlitapp.com/
 ---
 
 # Trading App Analysis and Clustering
@@ -31,3 +30,10 @@ Here are some the graph i produced.
 ![alt text](https://i.imgur.com/hFycNJk.png "Graph")
 ![alt text](https://i.imgur.com/mTPaf0G.png "Graph")
 
+For the Clustering.
+## Tableau
+{% include elements/figure.html image="https://i.imgur.com/Fg0EMPr.jpeg" caption="The 3 Cluster" %}
+
+- Cluster 0 are filled with youngster and someone with less than 10 m mincome, the majority are student. most of income from non work related (undian, orangtua, tabungan etc)
+- Cluster 1 are mostly filled with high income person and with age above 20>, income source gome from bisnis or payday, this correlate with occupation that is swasta and pengusaha. almost  most are male
+- cluster 2 are dominanly filled with woman with most of then are between 20-40, this cluster also filled with IRT occupation
