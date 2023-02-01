@@ -1,5 +1,17 @@
+- name: Tableau
+  percentage: 85
+  color:
+  
+- name: Looker/GDS
+  percentage: 85
+  color:
+
 - name: Adobe Photoshop
   percentage: 75
+  color: info
+  
+- name: Cloud ETL/ELT
+  percentage: 55
   color: info
 
 - name: CorelDraw
