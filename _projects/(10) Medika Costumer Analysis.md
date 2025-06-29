@@ -1,7 +1,6 @@
 ---
 name: Medika Costumer Analysis
 tools: [Data Cleaning, Python, R, Analysis]
-image: https://i.imgur.com/qEzGBNR.jpeg
 description: RevoU final project of team of four people.
 ---
 

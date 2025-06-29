@@ -1,7 +1,6 @@
 ---
 name: Trading App Analysis and Clustering
 tools: [Analysis, Python, Clustering]
-image: https://i.imgur.com/Fg0EMPr.jpeg
 description: Cleaning, Analysis, and Clustering of Trading app data.
 ---
 
