@@ -1,7 +1,7 @@
 ---
 name: Machine Learning–Driven Player Valuation for Football Scouting
 tools: [Dashboard, SQL, Gradio, Football, Python]
-image : https://imgur.com/dOT0Eao
+image : https://i.imgur.com/dOT0Eao.png
 description: Machine Learning–Driven Player Valuation for Football Scouting
 
 ---
@@ -10,7 +10,7 @@ description: Machine Learning–Driven Player Valuation for Football Scouting
 
 
 
-{% include elements/figure.html image="/image/Screenshot_20260205_074628.png" caption="The Dashboard" %}
+{% include elements/figure.html image="https://i.imgur.com/dOT0Eao.png" caption="The Dashboard" %}
 
 This project aim to explore how machine learning can enhance football scouting by improving the way players are valued and shortlisted for recruitment. Traditional scouting relies heavily on intuition and manual analysis, which becomes increasingly challenging as global talent pools and transfer spending continue to grow. My work proposes a data-driven recommendation system that supports scouts with objective, interpretable insights.
 
